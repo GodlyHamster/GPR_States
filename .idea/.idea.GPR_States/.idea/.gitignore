@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.GPR_States.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\+bewijzenmap\Year2\GPR\GPR_States\.idea\.idea.GPR_States\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
